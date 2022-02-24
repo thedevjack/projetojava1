@@ -1,5 +1,7 @@
 package curso.java.alex;
 
+/* teste */
+
 import java.util.Date;
 
 public class Pessoa {
