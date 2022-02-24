@@ -8,9 +8,25 @@ public class Pessoa {
 	
 	private String sobrenome;
 	
-	private int idade;
-	
 	private Date data_nascimento;
+	
+	private int idade;	
+	
+	public String getSobrenome() {
+		return sobrenome;
+	}
+
+	public void setSobrenome(String sobrenome) {
+		this.sobrenome = sobrenome;
+	}
+
+	public Date getData_nascimento() {
+		return data_nascimento;
+	}
+
+	public void setData_nascimento(Date data_nascimento) {
+		this.data_nascimento = data_nascimento;
+	}	
 	
 	public String getNome() {
 		return nome;
