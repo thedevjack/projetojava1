@@ -1,6 +1,7 @@
 package curso.java.alex;
 
-/* teste */
+//teste
+//teste
 
 import java.util.Date;
 
