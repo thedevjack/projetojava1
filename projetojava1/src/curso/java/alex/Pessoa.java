@@ -6,13 +6,9 @@ public class Pessoa {
 
 	private String nome;
 	
-	
-	
 	private Date data_nascimento;
 	
-	private int idade;
-	
-	
+	private int idade;	
 
 	public Date getData_nascimento() {
 		return data_nascimento;
