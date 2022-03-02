@@ -8,7 +8,17 @@ public class Pessoa {
 	
 	private Date data_nascimento;
 	
+	private Date data_nascimento2;
+	
 	private int idade;	
+
+	public Date getData_nascimento2() {
+		return data_nascimento2;
+	}
+
+	public void setData_nascimento2(Date data_nascimento2) {
+		this.data_nascimento2 = data_nascimento2;
+	}
 
 	public Date getData_nascimento() {
 		return data_nascimento;
