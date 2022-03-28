@@ -6,6 +6,10 @@ public class Pessoa {
 
 	int a = 10;
 	
+	int b = 5;
+	
+	int c = 7;
+	
 	private String nome;
 	
 	private Date data_nascimento;
